@@ -22,4 +22,4 @@ hear about it.
 
 ## Contact us
 
-Our website and email are on their way. Check back soon.
+[devinalabs.com](https://devinalabs.com) · [hello@devinalabs.com](mailto:hello@devinalabs.com)
