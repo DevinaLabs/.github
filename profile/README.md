@@ -2,24 +2,27 @@
 
 **We solve hard problems for traditional industries.**
 
-Some of the most valuable work in the world still runs on processes that haven't changed in decades: done
-by hand, slow, expensive, and depending on a few experts' time. We take those problems on, the ones that
-are hard rather than merely tedious, and build the tool that does the work to the expert's own standard.
+Some of the most valuable work in the world still depends on a few experts doing it by hand, slowly. We build
+the tools that do that work to the experts' own standard, so they can spend their time on the parts only they
+can do.
+
+## Approach
+
+We take on work where a mistake has consequences, where an expert has to sign off on the result, and where the
+input is messy real-world data. We measure our output against what the best practitioners produce by hand, we
+work alongside them from the first week, and the person who signs off can see where each part of the result
+came from.
 
 ## How we work
 
-We drive AI agents, Claude above all, to the absolute extreme. Every problem gets a team of agents that
-builds, reviews and challenges the work, held to gates that measure instead of guess, and tuned until
-we've squeezed out every last optimisation. The point isn't the AI. The point is a traditional process
-that now takes minutes instead of days, and an expert who signs off on the result.
+Our engineering is a team of AI agents, Claude above all, directed by our CTO. Agents write the code, other
+agents review it, and one stands in for the customer and checks the work against their standard. A change ships
+when it passes checks against real experts' work, usually within the hour of their feedback.
 
-## What we're working on
+## Right now
 
-Right now: **civil engineering**, working alongside structural engineers.
+Civil engineering, alongside structural engineers. It's where we started, not where we stop.
 
-It's where we started, not where we stop. If you have a hard problem in a traditional field, we want to
-hear about it.
-
-## Contact us
+Have a hard problem in a traditional field? Tell us what takes your experts days.
 
 [devinalabs.com](https://devinalabs.com) · [hello@devinalabs.com](mailto:hello@devinalabs.com)
